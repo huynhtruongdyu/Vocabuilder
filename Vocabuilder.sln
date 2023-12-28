@@ -21,6 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApps.Core.Web", "src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApps.Core.MAUI", "src\ClientApps\ClientApps.Core.MAUI\ClientApps.Core.MAUI.csproj", "{80A79A2E-09BD-452C-AEDF-5ECC8A2DDBE7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{5559F7A0-1B03-416C-82B4-DE6D0C09D5F9}"
+	ProjectSection(SolutionItems) = preProject
+		REFERENCES.md = REFERENCES.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

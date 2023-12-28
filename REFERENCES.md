@@ -1,0 +1,1 @@
+1. [Creating Device-Specific Views in .NET MAUI](https://www.youtube.com/watch?v=7oVrdUELuYA)
